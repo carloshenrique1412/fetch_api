@@ -1,3 +1,5 @@
+//código do JSON users (html,css e js) feito por: Carlos
+
 // fonte de dados
 let url = 'https://fakestoreapi.com/users'
 
